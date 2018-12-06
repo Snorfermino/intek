@@ -1,0 +1,1 @@
+print("i am daniel i am french i like jiu-jitsu".split())
